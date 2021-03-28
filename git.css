@@ -1,0 +1,62 @@
+.red
+{
+	height: 60px;
+	width: 180px;
+	background-color: black;
+	position: relative;
+	left:50px;
+	border-radius: 12.5%;
+	top:20px;
+}
+.red p
+{
+	color: red;
+	position: relative;
+	font-size: 18pt;
+	top:12.5px;
+	left:42.5px;
+}
+
+.green
+{
+	height: 60px;
+	width: 180px;
+	background-color: black;
+	position: relative;
+	left:800px;
+	border-radius: 10%;
+	bottom: 63px;
+}
+.green p
+{
+	color: green;
+	position: relative;
+	font-size: 18pt;
+	top:12.5px;
+	left:42.5px;
+}
+
+.red:hover
+{
+	cursor: pointer;
+}
+.green:hover
+{
+	cursor: pointer;
+}
+
+.text
+{
+	height:280px;
+	width:300px;
+	background-color: black;
+	position: relative;
+	left:350px;
+}
+.text p
+{
+	color: white;
+	position: relative;
+	left:12.5px;
+	top:10px;
+}
